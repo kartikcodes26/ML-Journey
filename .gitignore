@@ -1,0 +1,172 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.jupyter
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+.pytype/
+.pyre/
+
+# Environments
+.env
+.env.local
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+virtualenv/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+.vim/
+*.vim
+.emacs
+.netrwhist
+
+# OS & System
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+*.cab
+.directory
+
+# General Coding
+*.bak
+*.orig
+*.tmp
+*.temp
+**/temp/
+node_modules/
+.npm
+.eslintcache
+package-lock.json
+yarn.lock
+.gradle/
+out/
+.class
+*.jar
+
+# ML & Data Science Specific
+# Models
+models/
+model_artifacts/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.pb
+*.tf
+weights/
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+pretrained_models/
+saved_models/
+
+# Data & Datasets
+data/
+datasets/
+raw_data/
+processed_data/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.jsonl
+*.parquet
+*.feather
+*.arrow
+
+# Notebooks & Outputs
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+notebook_data/
+experiment_results/
+
+# Logs & Artifacts
+logs/
+*.log
+wandb/
+mlruns/
+tensorboard/
+runs/
+
+# Cache & Temp
+*.cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+
+# Credentials & Secrets
+.aws/
+.gcp/
+credentials.json
+secrets.json
+config.local.json
+*.key
+*.pem
+
+# Python specific
+dist/
+build/
+*.pyc
+.eggs/
+*.egg
+*.egg-info/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Type checking
+.mypy_cache/
+.pyre/
+*.pyi
